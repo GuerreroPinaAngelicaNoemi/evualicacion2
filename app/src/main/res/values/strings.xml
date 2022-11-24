@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppKotlin</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contaseña</string>
+    <string name="login">Login</string>
+    <string name="register">Registro</string>
+    <string name="cpassword">Confirmar Contaseña</string>
+    <string name="error_message_name">Usuario ya exite.</string>
+    <string name="error_message_nofill_name">Ingresa usuario</string>
+    <string name="error_message_nofill_pass">Ingresa Contaseña</string>
+    <string name="error_message_notmatch">Contaseña no concide</string>
+    <string name="error_message_invalid">Usuario invalido</string>
+    <string name="error_message_denied">Permisso denegado</string>
+    <string name="message_granted">Permiso otorgado</string>
+</resources>
